@@ -1,0 +1,2 @@
+# PubNub IOT App
+This app allows you to control 3 LEDs plugged into your Raspberry Pi from your Android phone. You must have Visual Studio Community 2017 with Xamarin.Android installed and will need a free PubNub account set up. The python script led_iot.py should be placed on your Raspberry Pi. Everything else is used for the Android App.

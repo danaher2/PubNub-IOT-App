@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <Button
+        android:id="@+id/YellowButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/YellowLED" />
+    <Button
+        android:id="@+id/RedButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/RedLED" />
+    <Button
+        android:id="@+id/BlueButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/BlueLED" />
+</LinearLayout>

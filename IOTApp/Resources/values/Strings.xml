@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="RedLED">Toggle Red LED</string>
+    <string name="YellowLED">Toggle Yellow LED</string>
+    <string name="BlueLED">Toggle Blue LED</string>
+    <string name="ApplicationName">Alecs LED App</string>
+</resources>

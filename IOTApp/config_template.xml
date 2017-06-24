@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<config>
+  <pubnub-subscribe-key>aaaaaaaaaaaaaaaaaaaaaaaa</pubnub-subscribe-key>
+  <pubnub-publish-key>bbbbbbbbbbbbbbbbbbbbbbbbbbb</pubnub-publish-key>
+</config>
